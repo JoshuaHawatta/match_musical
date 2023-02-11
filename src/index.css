@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	/*USE_REM_INSTED_OF_PX (1rem === 10px)*/
+	font-size: 62.5%;
+}
